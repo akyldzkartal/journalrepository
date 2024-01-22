@@ -1,4 +1,4 @@
 # JournalRepository
 
 Deneme satiri
-Deneme Satiri
+Yeni deneme satiri
